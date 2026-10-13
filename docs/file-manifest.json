@@ -1,0 +1,590 @@
+[
+  {
+    "source": "hw1_part1.m",
+    "destination": "assignments/assignment-01/src/hw1_part1.m",
+    "sha256": "a3db091cf0e1641d4fe6a4d658eaac4671222e140f33c35e4d53f66f451afb7b",
+    "bytes": 8869
+  },
+  {
+    "source": "hw1_part2.m",
+    "destination": "assignments/assignment-01/src/hw1_part2.m",
+    "sha256": "0979f513c7e4d0dcf81e03791c8cf2311a98bd825ab3dc0b9b53c0a4c78ae091",
+    "bytes": 1576
+  },
+  {
+    "source": "hw1_part3.m",
+    "destination": "assignments/assignment-01/src/hw1_part3.m",
+    "sha256": "aa7b031a6f898e9f95fe0c13fed5cbd3757574bad5c0a30ee3223e7f43861b43",
+    "bytes": 3807
+  },
+  {
+    "source": "hw2_FGS_PI_FIS.m",
+    "destination": "assignments/assignment-02/src/hw2_FGS_PI_FIS.m",
+    "sha256": "852c4720dc3da1618f818e6c32393ce2d13015036e53ac075aed11e577b3df16",
+    "bytes": 5435
+  },
+  {
+    "source": "hw2_fixedPI.m",
+    "destination": "assignments/assignment-02/src/hw2_fixedPI.m",
+    "sha256": "967f347342aec01941dfe63d3f8acc3b6f584987cff2ba412b80351d73337bae",
+    "bytes": 6156
+  },
+  {
+    "source": "hw2_part1.m",
+    "destination": "assignments/assignment-02/src/hw2_part1.m",
+    "sha256": "8110c6849747278e9617862f79f6373874d95e10b2542dfb175a5e21f418c3df",
+    "bytes": 6704
+  },
+  {
+    "source": "hw2_PI_FIS_action.m",
+    "destination": "assignments/assignment-02/src/hw2_PI_FIS_action.m",
+    "sha256": "2adca20a772946f1a7c09803a4564a092940c7129d292068b7a0e9d09b536fd7",
+    "bytes": 5944
+  },
+  {
+    "source": "hw2_USV_FIS_create.m",
+    "destination": "assignments/assignment-02/src/hw2_USV_FIS_create.m",
+    "sha256": "2c8bef3d30868746bce7d01ae7167c2948e51f7bd727d749e56543742c9c12f3",
+    "bytes": 4524
+  },
+  {
+    "source": "USV_navigation.m",
+    "destination": "assignments/assignment-02/src/USV_navigation.m",
+    "sha256": "83f8366455f3e4dc48b616883494b73c87f66a7a2b51b35abb71225e4ff1c50c",
+    "bytes": 6467
+  },
+  {
+    "source": "signal.mat",
+    "destination": "assignments/assignment-01/data/signal.mat",
+    "sha256": "151ca964690ba6d2fa9dec7bd84c4ed7751fc2f9abf3c3b26933cd11f52e0e13",
+    "bytes": 4713
+  },
+  {
+    "source": "System1.p",
+    "destination": "assignments/assignment-02/dependencies/System1.p",
+    "sha256": "6fbff2fa7362a2efedd44d9c2fef6f68d2100035ef1ac2005b9b8701f873d9d3",
+    "bytes": 766
+  },
+  {
+    "source": "FGS_PI_Controller.fis",
+    "destination": "assignments/assignment-02/controllers/FGS_PI_Controller.fis",
+    "sha256": "bbc8c77757e4c6ea06822f76149b6863450bdc09ec983d45c20921d91b6d7ff7",
+    "bytes": 1394
+  },
+  {
+    "source": "USV_Speed_Controller.fis",
+    "destination": "assignments/assignment-02/controllers/USV_Speed_Controller.fis",
+    "sha256": "e6b371598400aa50b58a78346f87b3f25c3246a51c151ea618f84047af4a341a",
+    "bytes": 1042
+  },
+  {
+    "source": "Intelligent_Control_Systems_HW1.pdf",
+    "destination": "assignments/assignment-01/reports/Intelligent_Control_Systems_HW1.pdf",
+    "sha256": "a18b4bd957ca47ae667af7ebd06049ee924ead48e9a6dbbe16e2fea9e7c3ba66",
+    "bytes": 1530701
+  },
+  {
+    "source": "Intelligent_Control_Systems_HW2.pdf",
+    "destination": "assignments/assignment-02/reports/Intelligent_Control_Systems_HW2.pdf",
+    "sha256": "f3e98c087ea4129c6f1b227dae4e458a04bee6f17bfb34b789af1a0eadbaf02f",
+    "bytes": 2369568
+  },
+  {
+    "source": "adaptive_pid_cont.jpg",
+    "destination": "assignments/assignment-01/figures/adaptive_pid_cont.jpg",
+    "sha256": "88345152fc4e0556b966a4f36b1f54085ce34367e6ec871a4d090418c8776b68",
+    "bytes": 49070
+  },
+  {
+    "source": "adaptive_pid_error.jpg",
+    "destination": "assignments/assignment-01/figures/adaptive_pid_error.jpg",
+    "sha256": "8b38bd37be700af925aa9e1adfbaff26d8dcdf3adc03eb617bc98bac2d20663e",
+    "bytes": 49203
+  },
+  {
+    "source": "adaptive_pid_track.jpg",
+    "destination": "assignments/assignment-01/figures/adaptive_pid_track.jpg",
+    "sha256": "7c9df74ad321f0529b1e53f4e1120f3320c0c05e9fa3045d70fcb6f3f79ce710",
+    "bytes": 59238
+  },
+  {
+    "source": "adaptive_pid_weights.jpg",
+    "destination": "assignments/assignment-01/figures/adaptive_pid_weights.jpg",
+    "sha256": "5180010a1f48f51281a91d3333d10fe1e80b697af0c75ea7759bd92ce1aa461f",
+    "bytes": 53027
+  },
+  {
+    "source": "cont_input.jpg",
+    "destination": "assignments/assignment-01/figures/cont_input.jpg",
+    "sha256": "522454348df492d9cb8a6af218264cdf856410a86fdad59f5558e96a08ecc004",
+    "bytes": 75063
+  },
+  {
+    "source": "cont_input_05.jpg",
+    "destination": "assignments/assignment-01/figures/cont_input_05.jpg",
+    "sha256": "d4e5c66650dec5ef46de15269736f82400771835acd6dbfa63c82a53b32baa41",
+    "bytes": 43412
+  },
+  {
+    "source": "cont_input_1.jpg",
+    "destination": "assignments/assignment-01/figures/cont_input_1.jpg",
+    "sha256": "64bb1888b53fb491b1211351b98a97310fd0a496ec25e7945104efd695ee10ad",
+    "bytes": 38713
+  },
+  {
+    "source": "cost_comparison.jpg",
+    "destination": "assignments/assignment-01/figures/cost_comparison.jpg",
+    "sha256": "c7a73f41433def4607710c84e8fbd9ed8366a085cc154c5e627f886706eacaaf",
+    "bytes": 95322
+  },
+  {
+    "source": "cost_comparison_GD_GDM.jpg",
+    "destination": "assignments/assignment-01/figures/cost_comparison_GD_GDM.jpg",
+    "sha256": "83041a1da4cd8addc5634a1522d69d8a86f356042cc6e9765f0bbf3feb754848",
+    "bytes": 57062
+  },
+  {
+    "source": "GDM_cost.jpg",
+    "destination": "assignments/assignment-01/figures/GDM_cost.jpg",
+    "sha256": "c26a43c01636d3dc6db7306552e4773d8b4273f01d534ea318bcc19525fba47b",
+    "bytes": 56816
+  },
+  {
+    "source": "GDM_fit.jpg",
+    "destination": "assignments/assignment-01/figures/GDM_fit.jpg",
+    "sha256": "3388eee0061ae6aebc61c02b34e219a0087bfc55949b0075d411a23d0be8176d",
+    "bytes": 67970
+  },
+  {
+    "source": "GD_cost.jpg",
+    "destination": "assignments/assignment-01/figures/GD_cost.jpg",
+    "sha256": "2e90b71d77baef9a78fb4960a1d1d1430c97ad90b943046ef16dde65cbbfecb1",
+    "bytes": 50898
+  },
+  {
+    "source": "GD_fit.jpg",
+    "destination": "assignments/assignment-01/figures/GD_fit.jpg",
+    "sha256": "97de8b0af648bb9606e6fc1210233c01381a75666fdcce52329e71894cf80057",
+    "bytes": 65650
+  },
+  {
+    "source": "hw2_0_5.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_0_5.jpg",
+    "sha256": "61fe4bd1ae6113d4ecd72b2d3b6e8b97b4b178d2e11e8f11e54553b28a5b99a3",
+    "bytes": 53165
+  },
+  {
+    "source": "hw2_1_5.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_1_5.jpg",
+    "sha256": "d0d9881df93d0b9ec108636709d94f2cbad2f85a4694b947dfd712bb3bbb3a97",
+    "bytes": 53751
+  },
+  {
+    "source": "hw2_crosssectional_area.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_crosssectional_area.jpg",
+    "sha256": "9263f9b187ebd3861de97827dc40d12d78b41edf9730f457bba5a7562edc585b",
+    "bytes": 55131
+  },
+  {
+    "source": "hw2_FGS_PI.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_FGS_PI.jpg",
+    "sha256": "f116b7d94a085ba72354b442dc8c733a63453e26c53f4529b7873754224d7c65",
+    "bytes": 48602
+  },
+  {
+    "source": "hw2_FGS_PI_cont.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_FGS_PI_cont.jpg",
+    "sha256": "457e61c177c10b876dfdeb963d551caa16dc7a2a0d0b9699246931b4a5960143",
+    "bytes": 56187
+  },
+  {
+    "source": "hw2_ki_surface.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_ki_surface.jpg",
+    "sha256": "4090652ac9b6c80ec58091129602270132bfdab517c6a363ca87bdfb57c33581",
+    "bytes": 87092
+  },
+  {
+    "source": "hw2_kp_surface.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_kp_surface.jpg",
+    "sha256": "82339179b7e7824803d4c634bccb085eebcae24302f57e5646d8a2ba07772333",
+    "bytes": 101570
+  },
+  {
+    "source": "hw2_mf_delta_error.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_mf_delta_error.jpg",
+    "sha256": "458b7e9f7be075ef69619e6d60acd5a3d33c9a84639e5ea411db03b13e74143a",
+    "bytes": 63287
+  },
+  {
+    "source": "hw2_mf_distance.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_mf_distance.jpg",
+    "sha256": "ee78d5ab305aa35741143e0bc1adc9534a082ce1d70a85eff3b44c1d8b527b74",
+    "bytes": 57621
+  },
+  {
+    "source": "hw2_mf_error.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_mf_error.jpg",
+    "sha256": "23f82f227d66aba846e10e37d1d8b5c17007abfffe707345191162bd48fd46ef",
+    "bytes": 61478
+  },
+  {
+    "source": "hw2_mf_heading_error.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_mf_heading_error.jpg",
+    "sha256": "4b321a0c565f48d1e7f7b9e17afeaa35f134a16a567dd569d97ac98b45148c36",
+    "bytes": 61903
+  },
+  {
+    "source": "hw2_mf_ki_norm.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_mf_ki_norm.jpg",
+    "sha256": "5a97f1e55226e744bd04c7508181d4af97a6353467978856d3b9c7e73fbf679d",
+    "bytes": 64814
+  },
+  {
+    "source": "hw2_mf_kp_norm.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_mf_kp_norm.jpg",
+    "sha256": "872cbf43cc22e70c90722eeec39585c4fc8177ff40361fff075c84dfb6c7aa2b",
+    "bytes": 65510
+  },
+  {
+    "source": "hw2_mf_speed.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_mf_speed.jpg",
+    "sha256": "99693c2341fc031648f341fa39192ef873f43b5ca8ba8fc12f9c037737efda29",
+    "bytes": 61058
+  },
+  {
+    "source": "hw2_narx_all.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_narx_all.jpg",
+    "sha256": "676019e6b44ca3870f9ed6d44138b20515b501199d9e1b606aa1344a753dd3dc",
+    "bytes": 282399
+  },
+  {
+    "source": "hw2_narx_loss.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_narx_loss.jpg",
+    "sha256": "5b7df020174eb8f697caffdf7dcaab00894681d1a7bc5a9fb36b7e69968d5a3f",
+    "bytes": 325886
+  },
+  {
+    "source": "hw2_narx_orderselec.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_narx_orderselec.jpg",
+    "sha256": "6a7d58b0b9cdaaad128a557a193904c2ded43816943766c014072371f08c6a30",
+    "bytes": 89487
+  },
+  {
+    "source": "hw2_narx_valid.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_narx_valid.jpg",
+    "sha256": "1b18d9d8608e9bbfff720f5a8af45bd43185a2e40a8f33b48907dd9c8c9b68e4",
+    "bytes": 273919
+  },
+  {
+    "source": "hw2_speed_surface.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_speed_surface.jpg",
+    "sha256": "47c4a72acdb72362a770fe5077331602d11bc3c2af42937b971909925aeaa8b8",
+    "bytes": 87723
+  },
+  {
+    "source": "hw2_UAV_baseline.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_UAV_baseline.jpg",
+    "sha256": "1f448e3070144da0721e67ea776fa8fd95708c59669e32475fd3bcbe7a2f30d2",
+    "bytes": 68894
+  },
+  {
+    "source": "hw2_USV_Fuzzy.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_USV_Fuzzy.jpg",
+    "sha256": "10b0a1c1ff376b39aa5a0790fc6d87475c2731ba1c97fd9ba3a0a74d210c08ab",
+    "bytes": 70620
+  },
+  {
+    "source": "hw2_USV_Fuzzy_signals.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_USV_Fuzzy_signals.jpg",
+    "sha256": "23d3c42ce68e9b499f46a9a75d00b12e732800061ca01d3c3d49031319fb827c",
+    "bytes": 71457
+  },
+  {
+    "source": "hw2_USV_signals.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_USV_signals.jpg",
+    "sha256": "df05e453b83a9ff654489cd26b8a7b4d46f44076218ed04d1dd7199ea98b199b",
+    "bytes": 70541
+  },
+  {
+    "source": "hw2_ytrain.jpg",
+    "destination": "assignments/assignment-02/figures/hw2_ytrain.jpg",
+    "sha256": "902a11dcb507755b3cb55d06fd841fe3e9baebf54190c8e95f4381dde84a4d78",
+    "bytes": 123272
+  },
+  {
+    "source": "newton_cost.jpg",
+    "destination": "assignments/assignment-01/figures/newton_cost.jpg",
+    "sha256": "0903358af7ae566224a55a35b1f176a2f6f0836013192c5b83322ba8976250ce",
+    "bytes": 91972
+  },
+  {
+    "source": "newton_fit.jpg",
+    "destination": "assignments/assignment-01/figures/newton_fit.jpg",
+    "sha256": "6bd56ffbf85730d85c6dcfeeec6153f7a8e6f8cdbeb780d3249de2d6b58348b3",
+    "bytes": 112702
+  },
+  {
+    "source": "pid_cont.jpg",
+    "destination": "assignments/assignment-01/figures/pid_cont.jpg",
+    "sha256": "29e8e522c9260d034e1536bcdf68372c574591300c0abce441d2dc070b48f7aa",
+    "bytes": 52895
+  },
+  {
+    "source": "pid_error.jpg",
+    "destination": "assignments/assignment-01/figures/pid_error.jpg",
+    "sha256": "05c84a3214f1897e56a0a04938edf3202b406aa19a08bf3b7f31ffda5d1f2d2b",
+    "bytes": 50307
+  },
+  {
+    "source": "pid_track.jpg",
+    "destination": "assignments/assignment-01/figures/pid_track.jpg",
+    "sha256": "62fb79bd648b9c068cf5b76592ee80c8f4d7272cf2ad2588872654b9cce8619a",
+    "bytes": 52816
+  },
+  {
+    "source": "project_loss.jpg",
+    "destination": "project/double-tank/figures/project_loss.jpg",
+    "sha256": "66e9ac0a18aa6b20bdf3f034c819c9e8e6b3b1f2c920b8371cb9a64b50c97cfd",
+    "bytes": 153393
+  },
+  {
+    "source": "project_OL_system.jpg",
+    "destination": "project/double-tank/figures/project_OL_system.jpg",
+    "sha256": "af6062542eb83f1e1d59c036d5b3c86c9a6ad9e4e474bbf5375c19c6bb4c42b3",
+    "bytes": 112062
+  },
+  {
+    "source": "project_PINN_tracking.jpg",
+    "destination": "project/double-tank/figures/project_PINN_tracking.jpg",
+    "sha256": "1444cdbb79f666c72a237a593702255fe82cc5c14d2cc2b203685edbc8c9cb58",
+    "bytes": 55816
+  },
+  {
+    "source": "project_PI_cont_sig.jpg",
+    "destination": "project/double-tank/figures/project_PI_cont_sig.jpg",
+    "sha256": "0b366c6f942bb9e8923890a1dfea9c593c029e913961ce4a7c033486baa7f7fc",
+    "bytes": 52528
+  },
+  {
+    "source": "project_PI_tracking.jpg",
+    "destination": "project/double-tank/figures/project_PI_tracking.jpg",
+    "sha256": "3a6d9bd8acc1023e9df2839d43510d2c1412f465a42fe737d599af1eadf6f9bb",
+    "bytes": 55007
+  },
+  {
+    "source": "state_traj.jpg",
+    "destination": "assignments/assignment-01/figures/state_traj.jpg",
+    "sha256": "f2546664026e6a940d3296586f5eddec95406a32660c2df86f9b7a397ef1d531",
+    "bytes": 93370
+  },
+  {
+    "source": "state_traj_05.jpg",
+    "destination": "assignments/assignment-01/figures/state_traj_05.jpg",
+    "sha256": "79412f316314b003f24d76cf5d413f7390abcbec686541d1a864e425ed190b14",
+    "bytes": 48022
+  },
+  {
+    "source": "state_traj_1.jpg",
+    "destination": "assignments/assignment-01/figures/state_traj_1.jpg",
+    "sha256": "484e2629df1ea87230f2744bb5666f5bdc449dafc5ab0a6aef4d38159a34a674",
+    "bytes": 46697
+  },
+  {
+    "source": "project_NN_MPC_test.m",
+    "destination": "project/double-tank/src/project_NN_MPC_test.m",
+    "sha256": "ec619f4e0964cba428deedd9238c8b30ef199c76e4159f5dfc0826dc299707f6",
+    "bytes": 15382
+  },
+  {
+    "source": "project_PI.m",
+    "destination": "project/double-tank/src/project_PI.m",
+    "sha256": "90f3602a878a016cbed02002cce87cbea4403f1245f1345af4c77747349475fa",
+    "bytes": 2924
+  },
+  {
+    "source": "project_PINN.m",
+    "destination": "project/double-tank/src/project_PINN.m",
+    "sha256": "3a1bc200c72e0d6a0d0346c6fe51c6474160cc29621da8a3e672b1d26c89a6ec",
+    "bytes": 23728
+  },
+  {
+    "source": "project_PINN_v2.m",
+    "destination": "project/double-tank/src/project_PINN_v2.m",
+    "sha256": "0e70feb86bb70d3056973625cf8304d2c18da9574a3bb1480c8e681e73dc62ab",
+    "bytes": 4707
+  },
+  {
+    "source": "project_PINN_v2_test.m",
+    "destination": "project/double-tank/src/project_PINN_v2_test.m",
+    "sha256": "a648ccbddcbc77696627b283b43cb56d61fb40a31133de392c84f5bd29244e2c",
+    "bytes": 5442
+  },
+  {
+    "source": "project_PINN_v2_test2.m",
+    "destination": "project/double-tank/src/project_PINN_v2_test2.m",
+    "sha256": "55569bfeb60ba71760f1cb625782d2499bc85d9c26596757ee8932f45b41fa09",
+    "bytes": 2730
+  },
+  {
+    "source": "project_stability.m",
+    "destination": "project/double-tank/src/project_stability.m",
+    "sha256": "2c01c95198f006a31041b138313621380422d91b13bea4a009fdf05aec445c37",
+    "bytes": 1822
+  },
+  {
+    "source": "project_system.m",
+    "destination": "project/double-tank/src/project_system.m",
+    "sha256": "3b5d65fd1dfcfda1f14b35716dcc5f9ac8382e6e368ba7050abe9a43df733abe",
+    "bytes": 964
+  },
+  {
+    "source": "project_test.m",
+    "destination": "project/double-tank/src/project_test.m",
+    "sha256": "d1dc49334709102d9d1cadff9ec8c8a0d0874666e61e11aa49ef36df3a65de48",
+    "bytes": 11311
+  },
+  {
+    "source": "project_test2.m",
+    "destination": "project/double-tank/src/project_test2.m",
+    "sha256": "d8e7112522807290dda6684cf7d43144be04985f075e28f68e749160e4ab42e2",
+    "bytes": 14364
+  },
+  {
+    "source": "main.m",
+    "destination": "project/double-tank/src/main.m",
+    "sha256": "95a01826d01088a405c11b27fdd04823481dcee15d7fc2f58740838df70e3514",
+    "bytes": 23126
+  },
+  {
+    "source": "NN_based_MPC_final_results.mat",
+    "destination": "project/double-tank/data/NN_based_MPC_final_results.mat",
+    "sha256": "efb0f5bcbd2a9f30c0d0c7f40856b07e27349d809efb9a882ba2d6157b7416a9",
+    "bytes": 51601
+  },
+  {
+    "source": "NN_MPC_teacher_dataset.mat",
+    "destination": "project/double-tank/data/NN_MPC_teacher_dataset.mat",
+    "sha256": "d46cf943ed377571bd22aabe2cbfa0ad116880de727584eea1b04cfe5b658260",
+    "bytes": 34077
+  },
+  {
+    "source": "noise_rejection_results.mat",
+    "destination": "project/double-tank/data/noise_rejection_results.mat",
+    "sha256": "dbd5e4c1e89b3429cda3bbb2738c1f17d84b84c0bb99bf0f7a6534803d045da4",
+    "bytes": 425160
+  },
+  {
+    "source": "OF_NN_MPC_teacher_dataset.mat",
+    "destination": "project/double-tank/data/OF_NN_MPC_teacher_dataset.mat",
+    "sha256": "1d343fa485f344e2e1d888b821d55df62cb111e63a71fa7787eb7a716391becf",
+    "bytes": 101039
+  },
+  {
+    "source": "Output_Feedback_NN_based_MPC_DoubleTank_Final.mat",
+    "destination": "project/double-tank/data/Output_Feedback_NN_based_MPC_DoubleTank_Final.mat",
+    "sha256": "73d30a7f23717382a3c545154a170d372f8bdc5743533e318706a944f204e433",
+    "bytes": 175068
+  },
+  {
+    "source": "Physics_Guided_Neural_PI_DoubleTank_results.mat",
+    "destination": "project/double-tank/data/Physics_Guided_Neural_PI_DoubleTank_results.mat",
+    "sha256": "8bd5cbccfcba141f284e87b55194c7e43302cbd2f7ff036eac049c8c9b7c5a56",
+    "bytes": 56508
+  },
+  {
+    "source": "PINN_double_tank_results_fast.mat",
+    "destination": "project/double-tank/data/PINN_double_tank_results_fast.mat",
+    "sha256": "b032772cf07cc99230079e4c4c28d82d44ca4180e2a1faedefbbc55552f90b9a",
+    "bytes": 62589
+  },
+  {
+    "source": "Robust_FullState_NN_based_MPC_Final.mat",
+    "destination": "project/double-tank/data/Robust_FullState_NN_based_MPC_Final.mat",
+    "sha256": "1c26b2cfd886b54f2a6ccea2a66286a930631f216466d368af584bdd38ceb2c0",
+    "bytes": 398755
+  },
+  {
+    "source": "Robust_FullState_NN_MPC_Dataset.mat",
+    "destination": "project/double-tank/data/Robust_FullState_NN_MPC_Dataset.mat",
+    "sha256": "4caad9dbf95c922e57fb35e176a76a37eafd651a14ebfceaa115e9ceb7566149",
+    "bytes": 203561
+  },
+  {
+    "source": "Saved_OF_NN_MPC_Extended_Tests.mat",
+    "destination": "project/double-tank/data/Saved_OF_NN_MPC_Extended_Tests.mat",
+    "sha256": "c189445073c3a4aa53f8ed13a3466d8aa64699f589c3fbe8ba806b2ec9c23b7e",
+    "bytes": 98121
+  },
+  {
+    "source": "step_test_results.mat",
+    "destination": "project/double-tank/data/step_test_results.mat",
+    "sha256": "754135a9583fd6a63fcb769ae5d15f845c3e1d54bd6da77a22dea2df472b5d11",
+    "bytes": 227264
+  },
+  {
+    "source": "trained_physics_inverse_nn_controller.mat",
+    "destination": "project/double-tank/data/trained_physics_inverse_nn_controller.mat",
+    "sha256": "fbd68bcebfd5973e905e7a4d20f52c43ec255e06f91823174e7b7763caf12233",
+    "bytes": 306960
+  },
+  {
+    "source": "trained_pinn_controller.mat",
+    "destination": "project/double-tank/data/trained_pinn_controller.mat",
+    "sha256": "911458237ae6f6546cc4ab7105f1fbf2e5a8c103d8dccfa21dcb9ac8e2f385c0",
+    "bytes": 14928
+  },
+  {
+    "source": "figures_step_test/step_test_control_effort.png",
+    "destination": "project/double-tank/figures/figures_step_test/step_test_control_effort.png",
+    "sha256": "ca20b4c70cebda565702623a57d915bee0e46b5fc346281164b36c7a05578f51",
+    "bytes": 131604
+  },
+  {
+    "source": "figures_step_test/step_test_h2_tracking.png",
+    "destination": "project/double-tank/figures/figures_step_test/step_test_h2_tracking.png",
+    "sha256": "2b41394c30cd8dcba570bfb8bd98ef88df89ce8fd08e41c089e3a97898e33870",
+    "bytes": 153987
+  },
+  {
+    "source": "figures_step_test/step_test_main_response.png",
+    "destination": "project/double-tank/figures/figures_step_test/step_test_main_response.png",
+    "sha256": "8fb345c953e203c8a87bb653455872772f4f04ad9a8252d17522fb2bad738019",
+    "bytes": 227302
+  },
+  {
+    "source": "figures_step_test/step_test_state_trajectory.png",
+    "destination": "project/double-tank/figures/figures_step_test/step_test_state_trajectory.png",
+    "sha256": "de9ba4ff95259db599d7e1282eee8e1d33e38bd0b75d094a8129a421fc148b78",
+    "bytes": 126121
+  },
+  {
+    "source": "figures_step_test_NN_vs_PI/NN_vs_PI_control_effort.png",
+    "destination": "project/double-tank/figures/figures_step_test_NN_vs_PI/NN_vs_PI_control_effort.png",
+    "sha256": "77a0530e576c1eb0dc3b26c5ba6a95226ba8aea27e072f02a379f0767757be11",
+    "bytes": 172972
+  },
+  {
+    "source": "figures_step_test_NN_vs_PI/NN_vs_PI_h1_comparison.png",
+    "destination": "project/double-tank/figures/figures_step_test_NN_vs_PI/NN_vs_PI_h1_comparison.png",
+    "sha256": "37d7364b7f9b68ecae00355b4cbb37a17948f5f632135dbc2ce131c7ec364729",
+    "bytes": 156285
+  },
+  {
+    "source": "figures_step_test_NN_vs_PI/NN_vs_PI_h2_tracking.png",
+    "destination": "project/double-tank/figures/figures_step_test_NN_vs_PI/NN_vs_PI_h2_tracking.png",
+    "sha256": "198f26dbf82b28988738ac1b59eb107fb98fdc1e26d762aedcafa6cbef3b3a06",
+    "bytes": 170605
+  },
+  {
+    "source": "figures_step_test_NN_vs_PI/NN_vs_PI_main_response.png",
+    "destination": "project/double-tank/figures/figures_step_test_NN_vs_PI/NN_vs_PI_main_response.png",
+    "sha256": "ec53db95ad68b1450808a4b0472688d3fb982872cf1531458b970e374724c2fc",
+    "bytes": 265745
+  },
+  {
+    "source": "figures_step_test_NN_vs_PI/NN_vs_PI_metric_comparison.png",
+    "destination": "project/double-tank/figures/figures_step_test_NN_vs_PI/NN_vs_PI_metric_comparison.png",
+    "sha256": "9d26254fc998b49d518431db0203520861d76c5a4562a0a21ce77fb130abd500",
+    "bytes": 72685
+  }
+]

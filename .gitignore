@@ -1,0 +1,43 @@
+# MATLAB / Simulink generated files
+*.asv
+*.autosave
+*.original
+*.m~
+*.mex*
+*.slxc
+slprj/
+codegen/
+*.log
+*.diary
+
+# Local dependencies and credentials
+assignments/assignment-02/dependencies/*
+!assignments/assignment-02/dependencies/README.md
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Experiment outputs in working folders; curated data/ and figures/ stay tracked
+/assignments/assignment-01/*.mat
+/assignments/assignment-01/*.jpg
+/assignments/assignment-01/*.png
+/assignments/assignment-02/*.mat
+/assignments/assignment-02/*.fis
+/assignments/assignment-02/*.jpg
+/assignments/assignment-02/*.png
+/project/double-tank/*.mat
+/project/double-tank/*.jpg
+/project/double-tank/*.png
+/project/double-tank/figures_*/
+
+# Local tools and OS/editor metadata
+.verification/
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+__pycache__/
+*.zip
